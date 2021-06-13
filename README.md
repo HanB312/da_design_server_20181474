@@ -46,7 +46,7 @@ pip3 install -r requirements.txt
 * Append two lines below to '~/.bashrc' file.
 ```sh
 ~$ cat >> ~./bashrc
-export DA_DESIGN_SERVER=/home/userid/da_design_server_20181474
+export DA_DESIGN_SERVER_20181474=/home/userid/da_design_server_20181474
 export PYTHONPATH=$PYTHONPATH:$DA_DESIGN_SERVER
 Ctrl+d
 
